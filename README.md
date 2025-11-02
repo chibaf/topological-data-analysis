@@ -9,3 +9,11 @@ https://www.math.uri.edu/~thoma/comp_top__2018/stag2016.pdf (PDF)
 HomCloud
 https://homcloud.dev/index.html
 HomCloud はパーシステントホモロジー(persistent homology)にもとづいたデータ解析ソフトウェアです． 大林が中心となって開発しています．
+
+Introduction to
+Persistent Homology for
+Graph Analysis
+6 June 2022
+Shizuo Kaji (Kyushu Univ.)
+PDF
+https://www2.math.kyushu-u.ac.jp/~skaji/slides/PH_graph2022.pdf
