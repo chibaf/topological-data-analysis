@@ -4,5 +4,4 @@
 https://arxiv.org/abs/1710.04019
 
 Persistent homology: a step-by-step introduction for newcomers 
-
 https://www.math.uri.edu/~thoma/comp_top__2018/stag2016.pdf (PDF)
